@@ -1,0 +1,33 @@
+{
+  "name": "elizabethaharte",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "elizabethaharte.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koisled/elizabethaharte"
+  },
+  "website": "https://github.com/koisled/elizabethaharte.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "koisled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koisled/elizabethaharte/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/koisled/elizabethaharte#readme",
+  "dependencies": {
+    "billatobya": "1.0.2"
+  }
+}
